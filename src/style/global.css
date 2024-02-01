@@ -1,0 +1,40 @@
+@import "./transition.css";
+@import "./reset.css";
+
+html,
+body,
+#app {
+    height: 100%;
+}
+
+
+
+
+.scrollbar::-webkit-scrollbar {
+    width: 4px;
+    border-radius: 4px;
+}
+
+.scrollbar::-webkit-scrollbar-track-piece {
+    background-color: #fff;
+}
+
+/* 滚动条的内层滑轨背景颜色 */
+
+.scrollbar::-webkit-scrollbar-track {
+    background-color: #fff;
+}
+
+/* 滚动条的外层滑轨背景颜色 */
+
+.scrollbar::-webkit-scrollbar-thumb {
+    background-color: #E4E7ED;
+    border-radius: 4px;
+}
+
+/* 滚动条的内层滑块颜色 */
+
+.scrollbar::-webkit-scrollbar-button {
+    background-color: #fff;
+    display: none;
+}
