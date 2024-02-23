@@ -4,6 +4,7 @@
     <a-button type="primary" @click="router.push('analysis')"
       >分析页面</a-button
     >
+    <a-button type="primary" @click="router.push('user')">用户页面</a-button>
   </div>
 </template>
 
