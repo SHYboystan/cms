@@ -2,6 +2,9 @@
   <div>
     这里是用户
     这里是新用户
+
+
+    爱了爱了
     <a-button type="primary" @click="router.push('analysis')"
       >分析页面</a-button
     >
