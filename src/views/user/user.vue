@@ -33,13 +33,16 @@
     </p>
     <a-divider />
     <h1>打撒就好了打撒觉得啊</h1>
+    <a-rate v-model:value="value" />
   </div>
 </template>
 
 <script lang="ts" setup>
+import { ref } from 'vue';
 import { useRouter } from "vue-router";
 const router = useRouter();
 const description = 'This is a description.';
+const value = ref<number>(2);
 </script>
 
 <style scoped lang="scss"></style>
