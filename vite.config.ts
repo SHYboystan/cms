@@ -5,7 +5,7 @@ import { resolve } from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:"/cms", // 设置打包之后引入路径的问题
+  base:"/", // 设置打包之后引入路径的问题
   plugins: [
     vue(),
     viteMockServe({
