@@ -1,0 +1,1 @@
+import{d as s,c as o,e as a,f as c,_}from"./index-f9182a75.js";const n={class:"iframe-container"},t=["src"],r=s({__name:"common",props:{src:{default:""}},setup(m){return(e,p)=>(o(),a("div",n,[c("iframe",{class:"iframe-body",src:e.src},null,8,t)]))}});const i=_(r,[["__scopeId","data-v-96a23591"]]);export{i as C};
