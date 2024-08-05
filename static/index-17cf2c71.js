@@ -1,1 +1,0 @@
-import{C as e}from"./common-7a364266.js";import{d as o,c as t,E as r}from"./index-acbb2a0f.js";const p=o({__name:"index",setup(n){return(s,a)=>(t(),r(e,{src:"https://cn.vitejs.dev/"}))}});export{p as default};
