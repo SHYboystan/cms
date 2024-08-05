@@ -1,1 +1,0 @@
-import{C as e}from"./common-713fd888.js";import{d as o,c as n,E as t}from"./index-f9182a75.js";const p=o({__name:"index",setup(r){return(c,a)=>(n(),t(e,{src:"https://www.antdv.com/components/overview-cn"}))}});export{p as default};
