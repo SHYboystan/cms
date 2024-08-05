@@ -1,0 +1,1 @@
+import{C as e}from"./common-7a364266.js";import{d as o,c as r,E as t}from"./index-acbb2a0f.js";const p=o({__name:"index",setup(a){return(n,s)=>(r(),t(e,{src:"https://pinia.vuejs.org/zh/"}))}});export{p as default};
