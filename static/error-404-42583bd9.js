@@ -1,0 +1,1 @@
+import{E as e}from"./error-ba108887.js";import{d as r,c as o,e as a,i as s,_ as t}from"./index-b8a5cb9a.js";import"./lottie-7daac69e.js";const _={class:"container"},c=r({__name:"error-404",setup(n){return(d,p)=>(o(),a("div",_,[s(e,{path:"src/assets/error404.json"})]))}});const f=t(c,[["__scopeId","data-v-a9ada70d"]]);export{f as default};
